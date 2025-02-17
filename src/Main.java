@@ -96,6 +96,7 @@ public class Main {
                     for (int j = 0; j < 3; j++) {
                         buttons[i][j].setEnabled(true);
                         buttons[i][j].setText("");
+                        ticTacToe.setPlayerToX();
                         statusLabel.setText("Player " + ticTacToe.getCurrentPlayer() + "'s Turn!");
                     }
                 }

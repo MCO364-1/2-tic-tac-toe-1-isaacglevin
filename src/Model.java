@@ -87,6 +87,10 @@ public class Model {
         }
     }
 
+    public void setPlayerToX() {
+        currentPlayer = Player.X;
+    }
+
 
 
 
