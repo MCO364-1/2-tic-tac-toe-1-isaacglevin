@@ -8,7 +8,7 @@ public class Main {
 
         Model ticTacToe = new Model();
 
-        //Main Frame
+        //Main Frame Window
         JFrame window = new JFrame();
         window.setSize(500, 500);
         window.setTitle("TicTacToe");

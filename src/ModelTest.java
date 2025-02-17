@@ -2,6 +2,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class ModelTest {
 
+    //Init Model
     Model model = new Model();
 
     @org.junit.jupiter.api.Test

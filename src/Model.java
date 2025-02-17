@@ -14,6 +14,7 @@ public class Model {
 
     private Player currentPlayer = Player.X;
 
+    //Model
     public Model() {
         for (int i = 0; i <3 ; i++) {
             for (int j = 0; j < 3; j++) {
